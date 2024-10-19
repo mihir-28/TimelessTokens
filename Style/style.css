@@ -5,6 +5,10 @@
     padding: 0;
 }
 
+body {
+    overflow: hidden;
+}
+
 html{
     transition: all 1s ease-in-out 0.8s;
     scroll-behavior: smooth;
